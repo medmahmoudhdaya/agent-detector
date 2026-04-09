@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## v1.1.1 - 2026-04-09
+
+### What's Changed
+
+* Add Copilot CLI detection by [@chris-ware](https://github.com/chris-ware) in https://github.com/shipfastlabs/agent-detector/pull/5
+
+### New Contributors
+
+* [@chris-ware](https://github.com/chris-ware) made their first contribution in https://github.com/shipfastlabs/agent-detector/pull/5
+
+**Full Changelog**: https://github.com/shipfastlabs/agent-detector/compare/v1.1.0...v1.1.1
+
 ## v1.1.0 - 2026-03-11
 
 ### What's Changed
