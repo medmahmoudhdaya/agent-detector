@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## v1.1.3 - 2026-04-14
+
+### What's Changed
+
+* Add pi detection by [@ssnepenthe](https://github.com/ssnepenthe) in https://github.com/shipfastlabs/agent-detector/pull/7
+
+### New Contributors
+
+* [@ssnepenthe](https://github.com/ssnepenthe) made their first contribution in https://github.com/shipfastlabs/agent-detector/pull/7
+
+**Full Changelog**: https://github.com/shipfastlabs/agent-detector/compare/v1.1.2...v1.1.3
+
 ## v1.1.2 - 2026-04-09
 
 ### What's Changed
